@@ -21,4 +21,9 @@ body {
 footer {
   background-color: #00235E;
   height: 40px;
+  width: 100%;
+}
+
+.img {
+  width: 50%;
 }
